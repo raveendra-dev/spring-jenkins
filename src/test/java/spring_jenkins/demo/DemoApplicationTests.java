@@ -16,7 +16,8 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Testcase executing");
-		
+		logger.info("UAT testing");
+
 		assertEquals(true, true);
 	}
 
