@@ -16,6 +16,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Testcase executing");
+		logger.info("second commit");
 		assertEquals(true, true);
 	}
 
