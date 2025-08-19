@@ -14,7 +14,7 @@ class DemoApplicationTests {
 
 
 	@Test
-	contextLoads() {
+	void contextLoads() {
 		logger.info("Testcase executing");
 		logger.info("UAT testing");
 
